@@ -125,7 +125,7 @@ myopener = MyOpener()
 
 
 class fake_ssl:
-    wrap_socket = partial(ssl.wrap_socket, ssl_version=ssl.PROTOCOL_SSLv3)
+    wrap_socket = partial(ssl.wrap_socket, ssl_version=ssl.PROTOCOL_TLSv1)
 httplib.ssl = fake_ssl
 
 
