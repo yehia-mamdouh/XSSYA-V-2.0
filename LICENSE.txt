@@ -1,4 +1,4 @@
-Copyright (c) 2014, Yehia Mamdouh (http://labs.dts-solution.com/xssya-forget-the-browser-for-xss-by-yehia-mamdouh/)
+Copyright (c) 2015, Yehia Mamdouh (http://labs.dts-solution.com/xssya-forget-the-browser-for-xss-by-yehia-mamdouh/)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
