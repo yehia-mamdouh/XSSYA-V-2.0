@@ -60,3 +60,5 @@ Header1: < script >alert(document.cookie);
 The Module need to be downloaded is
  colorama-0.2.7 https://pypi.python.org/pypi/colorama
 gdshortener 0.0.2 https://pypi.python.org/pypi/gdshortener 
+
+Note: if you face Https connection problem - just delete (class fake_ssl) and test again
